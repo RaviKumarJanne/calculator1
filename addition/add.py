@@ -1,4 +1,4 @@
-def add(a,b):
-    total = a+b
+def add(a,b,c):
+    total = a+b+c
     print(total)
-add(10,20)
+add(10,20,30)
